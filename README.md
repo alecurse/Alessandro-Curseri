@@ -12,3 +12,4 @@
 - 🥋 I do Capoeira
 - 📸 You can follow me on Instagram:
      - https://www.instagram.com/alessandro_curseri_/
+- 📧 You can contact me at ale06.swift@gmail.com
