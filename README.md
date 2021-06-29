@@ -1,0 +1,14 @@
+- 👋 Hi, I’m Alessandro Curseri
+- 🇮🇹 I'm from Italy
+- 🎂 I was born in 2006
+- 👨🏼‍💻 I'm quite good at swift
+- 👨🏼‍💻 I'm learning javascript, html, css, python
+- 📱 I made two apps that are available on the App Store:
+     - https://apps.apple.com/us/app/id1547609700
+     - https://apps.apple.com/us/app/id1521344028
+- 📲 I also made a website: 
+     - https://everysecondapp.herokuapp.com
+- 🎸 I play the guitar
+- 🥋 I do Capoeira
+- 📸 You can follow me on Instagram:
+     - https://www.instagram.com/alessandro_curseri_/
