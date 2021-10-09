@@ -5,7 +5,7 @@
 - 🎂 I was born in 2006
 - 👨🏼‍💻 I'm quite good at swift
 - 👨🏼‍💻 I'm learning javascript, html, css, python
-- 📱 I made [some apps that are available on the App Store and some websites](https://www.alessandrocurseri.com/projects).
+- 📱 I made [some apps that are available on the App Store and some websites](https://www.alessandrocurseri.com/en/projects).
 - 🎸 I play the guitar
 - 🥋 I do Capoeira
 - 📸 You can follow me on [Instagram](https://www.instagram.com/alessandro_curseri_/)
